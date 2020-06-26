@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## My Dashboard
+
+Meu primeiro projeto em React, para fixar conhecimentos em componentes.
+Nesse exercício não me preocupei com o ambiente Node, tampouco com Express.
+O foco principal desse exercício é encarar 100% do lado do React.
+Erica Akira, exercício da  Digital House 2020.
+
 ## Available Scripts
 
 In the project directory, you can run:
